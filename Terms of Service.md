@@ -1,5 +1,5 @@
 # NAP Bot — Terms of Service
-_Last Updated: ADD_DATE_
+_Last Updated: 11/30/2025
 
 Thank you for choosing **NAP Bot**, a multifunctional Discord bot designed to enhance community interaction, provide automation, and support game/economy systems.  
 By adding or using NAP Bot, you agree to the following Terms of Service.
