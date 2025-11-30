@@ -63,8 +63,7 @@ Server administrators may request:
 
 - **Full deletion of all guild data**  
 - **Deletion of a specific user’s data**  
-- **Database resets**  
-- **Transfer to/from master-server mode**
+- **Database resets** 
 
 Data deletion requests will be honored as quickly as reasonably possible.
 
